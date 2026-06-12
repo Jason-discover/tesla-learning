@@ -13,7 +13,7 @@
 # print(f"My major is {major}.")
 name = "CHENJINAN"
 school = "Yuzhang normal school"
-Dream = "Moneny"
+Dream = "Money"
 goal = "Having a factory like Tasla"
 print(f"My name is {name}")
 print(f"My school is {school}")
