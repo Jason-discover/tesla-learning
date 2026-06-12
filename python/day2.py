@@ -14,7 +14,7 @@
 name = "CHENJINAN"
 school = "Yuzhang normal school"
 Dream = "Money"
-goal = "Having a factory like Tasla"
+goal = "Having a factory like Tesla"
 print(f"My name is {name}")
 print(f"My school is {school}")
 print(f"My Dream is {Dream}")
