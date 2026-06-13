@@ -14,8 +14,14 @@
 #     print("psoitive")
 # else:
 #     print("not positive")
-score = int(input("please enter score: "))
-if score >=60:
-    print("pass")
+age = int(input("please enter your age: "))
+if age <=0:
+    print("Invalid age")
+elif age >=60:
+    print("Senior")
+elif age >=18:
+    print("Adult")
+elif age >=13:
+    print("Teenager")
 else:
-    print("Fail")
+    print("Child")
