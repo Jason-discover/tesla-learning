@@ -30,6 +30,9 @@ print("Boom!")"""
 """for i in range(1,6,1):
     print(i*"#")"""
 
-for i in range(1,6,1):
-    print(str(i)*i)
+# for i in range(1,6,1):
+#     print(str(i)*i)
 """字符串也可以乘法"""
+
+for i in range(5):
+    print(i)
