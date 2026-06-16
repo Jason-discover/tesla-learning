@@ -9,9 +9,9 @@ print(name[-5])"""
 # print(len(name))
 """len()获取长度"""
 
-"""name = "Jason"
+name = "Jason"
 for i in range(len(name)):
-     print(i)"""
+     print(i)
 
 # name = "python"
 # for i in range(len(name)):
@@ -22,6 +22,6 @@ for i in range(len(name)):
 # for i in word:
 #     print(i,end=" ")
 
-word ="python"
-for i in range(len(word)):
-     print(word[i],end=" ")
+# word ="python"
+# for i in range(len(word)):
+#      print(word[i],end=" ")
