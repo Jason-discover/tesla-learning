@@ -33,13 +33,6 @@ students = {
     "Mary":95
 }
 
-
-# def add_student():
-#         name = input("请输入姓名：")
-#         score = int(input("请输入成绩： "))
-#         students[name] = score
-#         print("添加成功")
-
 def show_all():
     for name,score in students.items():
         print(name,score)
