@@ -1,3 +1,3 @@
-print("Hello Tesla")
+print("Hello Tesla\n1")
 
 

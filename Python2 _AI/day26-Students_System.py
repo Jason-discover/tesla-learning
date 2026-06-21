@@ -9,16 +9,12 @@ def show_all():
     for name,score in students.items():
         print(name,score)
         
-            
-
 
 def show_good_students():
     for name,score in students.items():
         if score >= 90:
             print(name,score)
             
-
-
 def add_student():
         name = input("请输入姓名：")
         if name in students:
@@ -27,7 +23,6 @@ def add_student():
             score = int(input("请输入成绩： "))
             students[name] = score    
             print("添加成功")
-
         
 def search_student():
     name = input("请输入姓名： ")
